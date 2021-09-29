@@ -1,2 +1,2 @@
-This file is created for the Assignment purpose.
+This file is created for the Assignment CSS purpose.
 Minor changes for master branch.
